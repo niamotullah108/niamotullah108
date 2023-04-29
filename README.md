@@ -3,7 +3,7 @@
 
 **About me**
 
-<p align="center"><a href="github.com/niamotullah108"><img width="80%" alt="Hello, I'm Niamotullah." src="./assets/dino.gif"/></a></p>
+<p align="center"><a href="github.com/niamotullah108"><img width="100%" alt="Hello, I'm Niamotullah." src="./assets/dino.gif"/></a></p>
 
 
 
